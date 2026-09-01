@@ -144,3 +144,8 @@ Se incluyen 8 archivos de ejemplo (`Postman *.txt`) con el sobre SOAP (envelope)
 ## Frontend
 
 Este backend es consumido por un cliente Angular (`tienda-soap-frontend`) que implementa las peticiones SOAP directamente sobre `HttpClient`, con componentes separados para **Producto** (CRUD completo + filtros por precio y categoría) y **Categoria** (listado).
+
+## Autor
+Nombre: Jorge Acosta 
+Asignatura: Programación Web1 
+Paralelo: Tercero A Matutina 
